@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<!--
+	Radius by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Detail 3 - Radius by TEMPLATED</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header" class="preview">
+				<div class="inner">
+					<div class="content">
+						<h1>Radius</h1>
+						<h2>A fully responsive masonry style portfolio template.</h2>
+					</div>
+					<a href="index.html" class="button hidden"><span>Let's Go</span></a>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="preview" class="vertical">
+				<div class="inner">
+					<div class="image fit">
+						<img src="images/fgp (2).png" alt="" />
+					</div>
+					<div class="content">
+						<header>
+							<h2>Forrest Gump Story</h2>
+						</header>
+						<p>Was there any significance to Forrest Gump running past the end zone? I really want to know so I can better understand its importance and whether or not it signifies ‘mysterious forces’. (Mysterious forces = forces convincing one it will be impossible for them to realise their destiny; children do not have these or when they do they are in the form of a ghost- ghosts take on the personality and looks of a dead person: a visual cue tricking you into thinking a soul can be but can’t achieve it’s destiny).</p>
+<p>Sometimes I feel like Forrest when I am doing too much past the point of ‘achievement’; One thought could be Imperial College: I’ve cultivated my skills of study, discipline and use of knowledge and am now beating a dead horse. Sometimes I can feel the coach in my life telling me to stop running.</p>
+<p>‘In the long run, what people think about shepherds and bakers becomes more important to them than their own destinies’.
+ </p>
+					</div>
+				</div>
+				<a href="detail1.html" class="nav previous"><span class="fa fa-chevron-left"></span></a>
+				<a href="detail2.html" class="nav next"><span class="fa fa-chevron-right"></span></a>
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<a href="#" class="info fa fa-info-circle"><span>About</span></a>
+				<div class="inner">
+					<div class="content">
+						<h3>Vestibulum hendrerit tortor id gravida</h3>
+						<p>In tempor porttitor nisl non elementum. Nulla ipsum ipsum, feugiat vitae vehicula vitae, imperdiet sed risus. Fusce sed dictum neque, id auctor felis. Praesent luctus sagittis viverra. Nulla erat nibh, fermentum quis enim ac, ultrices euismod augue. Proin ligula nibh, pretium at enim eget, tempor feugiat nulla.</p>
+					</div>
+					<div class="copyright">
+						<h3>Follow me</h3>
+						<ul class="icons">
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+						</ul>
+						&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com/">Unsplash</a>.
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
